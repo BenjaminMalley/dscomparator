@@ -1,3 +1,6 @@
 [submodule "Playfair-Display"]
 	path = Playfair-Display
 	url = git@github.com:clauseggers/Playfair-Display.git
+[submodule "vollkorn"]
+	path = vollkorn
+	url = git@github.com:barberboy/vollkorn.git

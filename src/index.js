@@ -10,7 +10,7 @@ export default class Index extends Component {
           .banner
       }
     >
-      dscomparator
+      Dark Souls III
       
     </div>
   }
